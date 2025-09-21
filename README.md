@@ -22,18 +22,19 @@
 | 🧬 **Focus** | CTFs · Adversary Simulation · Threat Detection |
 | 🛰️ **Status** | Active – Missions in progress |
 
+
 ---
+
 
 ### Contact Protocol
 
-> `codex{dot}radar[at]proton[dot]me`  
-> *(No direct trace. Only intentional contact.)*
+> `codex{dot}radar[at]proton[dot]me`
+
 
 ---
 
-### Tech Arsenal
 
-#### 🛠️ **Mastered Tools**
+### Tech Arsenal
 
 ```bash
 - Nmap, Wireshark, Metasploit, Burp Suite
@@ -43,7 +44,9 @@
 - LinPEAS / LinEnum (Linux PrivEsc)
 - Reverse Shells via msfvenom + manual listeners
 ```
+
 ---
+
 ### Learning Paths
 
 | Platform | Track / Cert |
@@ -55,6 +58,7 @@
 
 
 ---
+
 ### 📂 Repositories
 
 | Project | Description |
